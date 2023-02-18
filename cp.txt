@@ -1,0 +1,3 @@
+{"apiUrl":"https://34.91.114.140:57787/CAMCE-sX5U7MUbW40RXnWA","certSha256":"419EEB3343B33795F1CAC90CAB42068777C8190BC4FB442B240DEBACB4B09C11"}
+
+sudo bash -c "$(wget -qO- https://raw.githubusercontent.com/Jigsaw-Code/outline-server/master/src/server_manager/install_scripts/install_server.sh)"
